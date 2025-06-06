@@ -29,9 +29,26 @@ body {
     padding: 96px 0;
 }
 
+a {
+    display: inline;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 48px;
+    color: #1a202c;
+    line-height: 1.25;
+}
+
 .purple {
     color: #6415ff;
 }
+
+
 
 section {
     padding: 0 32px;
