@@ -328,11 +328,11 @@ header .row {
     top: 0;
     bottom: 0;
     z-index: 1;
-    transition border-color: 300ms;
+    transition: border-color 300ms;
 }
 
 .header__email--input::placeholder {
-    font-height: 500;
+    line-height: 500;
     color: rgb(158, 170, 189);
 }
 
@@ -422,7 +422,7 @@ FEATURES ↓
 }
 
 .feature {
-    sidth: calc (100%/3);
+    width: calc (100%/3);
 }
 
 .feature__row {
