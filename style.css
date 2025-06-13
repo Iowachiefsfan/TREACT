@@ -480,6 +480,11 @@ QUALITY WORK ↓
     align-items: center;
 }
 
+#quality .section__title,
+#values .section__title {
+    line-height: 1.25;
+}
+
 
 /* 
 
